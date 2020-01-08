@@ -14,7 +14,9 @@ public class LeanFtTest extends UnitTestClassBase {
 
     @BeforeClass
     public void beforeClass() throws Exception {
+    System.out.println("");
     }
+
 
     @AfterClass
     public void afterClass() throws Exception {
